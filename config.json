@@ -1,0 +1,8 @@
+{
+  "root": ".",
+  "frontend": {
+    "build_command": "npm run build",
+    "root": "client",
+    "dist": "dist"
+  }
+}
